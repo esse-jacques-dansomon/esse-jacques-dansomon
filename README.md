@@ -5,7 +5,7 @@
 
 - And i work too as Web Developper since April 2021 at at [Noisy Digital](noisydigital.com)
 
-- 👨‍💻 All of my projects are available at [http://jacques.agencecauris.com/#works-e](http://jacques.agencecauris.com/#works-e)
+- 👨‍💻 All of my projects are available at [http://jacques-dansomon.com/#works-e](http://jacques-dansomon.com/#works-e)
 
 - 💬 Ask me about **symfony, srping, flutter, Angular**
 
