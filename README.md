@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **essedansomon@gmail.com**
 
-- 📄 Know about my experiences [http://jacques.agencecauris.com](http://jacques.agencecauris.com)
+- 📄 Know about my experiences [http://jacques-dansomon.com](http:///jacques-dansomon.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
