@@ -1,5 +1,5 @@
 <h1 align="">Hi 👋, I'm Esse Jacques DANSOMON</h1>
-<h3 align="">A passionate Web ans Mobile developer from Africa</h3>
+<h3 align="">A passionate Web and Mobile developer from Africa</h3>
 
 - 🔭 I’m currently working as Web and Mobile at Developper [Agence Cauris](agencecauris.com)
 
