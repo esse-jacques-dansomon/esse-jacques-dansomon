@@ -5,13 +5,13 @@
 
 - And i work too as Web Developper since April 2021 at at [Noisy Digital](noisydigital.com)
 
-- 👨‍💻 All of my projects are available at [http://jacques-dansomon.com/#works-e](http://jacques-dansomon.com/#works-e)
+- 👨‍💻 All of my projects are available at [http://essejacques.me/(https://essejacques.me/)
 
 - 💬 Ask me about **symfony, srping, flutter, Angular**
 
 - 📫 How to reach me **essedansomon@gmail.com**
 
-- 📄 Know about my experiences [http://jacques-dansomon.com](http:///jacques-dansomon.com)
+- 📄 Know about my experiences [https://essejacques.me](https:///essejacques.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
